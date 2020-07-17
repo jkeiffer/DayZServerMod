@@ -1,0 +1,15 @@
+{
+    "VehicleName": "ExpansionAn2",
+    "DisplayName": "",
+    "Parts": [
+        "ExpansionAnWheel",
+        "ExpansionAnWheel",
+        "ExpansionAnWheelSmall",
+        "ExpansionAnWheelSmall",
+        "ExpansionAircraftBattery",
+        "CarRadiator",
+        "GlowPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

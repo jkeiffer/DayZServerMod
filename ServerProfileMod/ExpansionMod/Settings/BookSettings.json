@@ -1,0 +1,99 @@
+{
+    "EnableBook": 1,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "ShowServerSettings": 1,
+    "ServerInfo": {
+        "ServerButtons": [
+            {
+                "IconPath": "set:expansion_iconset image:icon_group",
+                "URL": "https://exp.thurston.pw",
+                "Tooltip": "Feedback",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_discord",
+                "URL": "https://discord.io/expansion",
+                "Tooltip": "Discord",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_home",
+                "URL": "https://www.google.com",
+                "Tooltip": "Homepage",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_forums",
+                "URL": "https://www.google.com",
+                "Tooltip": "Forums",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_patreon",
+                "URL": "https://www.patreon.com/dayzexpansion",
+                "Tooltip": "Patreon",
+                "Color": -1
+            }
+        ],
+        "ServerSections": [
+            {
+                "HasHeading": 1,
+                "HeadText": "PLACEHOLDER",
+                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "PLACEHOLDER 2",
+                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "PLACEHOLDER 3",
+                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "PLACEHOLDER 4",
+                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "PLACEHOLDER 5",
+                "BodyText": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>"
+            }
+        ],
+        "ServerName": "SERVER NAME"
+    },
+    "ServerRules": {
+        "RuleSections": [
+            {
+                "Lable": "General Rules",
+                "RulesPages": [
+                    {
+                        "HeadText": "Rule 1",
+                        "BodyText": "This is a simple test text."
+                    },
+                    {
+                        "HeadText": "Rule 2",
+                        "BodyText": "This is a simple test text."
+                    }
+                ],
+                "PageSections": [
+                    {
+                        "Left": 0,
+                        "Right": 0
+                    },
+                    {
+                        "Left": 0,
+                        "Right": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black"
+}

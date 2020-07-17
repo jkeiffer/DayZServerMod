@@ -1,0 +1,553 @@
+{
+    "Enabled": 1,
+    "Weight": 66,
+    "MissionMaxTime": 1200,
+    "MissionName": "General_Balota",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 750,
+    "Speed": 25,
+    "Container": "ExpansionAirdropContainer",
+    "DropLocation": {
+        "x": 5043,
+        "z": 2505,
+        "Name": "Balota",
+        "Radius": 100
+    },
+    "Loot": [
+        {
+            "Name": "AKS74U",
+            "Attachments": [
+                "AKS74U_Bttstck"
+            ],
+            "Chance": 0.08
+        },
+        {
+            "Name": "AKM",
+            "Attachments": [
+                "AK_WoodBttstck",
+                "AK_WoodHndgrd"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "SKS",
+            "Attachments": [
+                "PUScopeOptic"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "SKS",
+            "Attachments": [
+                "SKS_Bayonet"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "SKS",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "UMP45",
+            "Attachments": [
+                "UniversalLight"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "UMP45",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "Mosin9130",
+            "Attachments": [
+                "PUScopeOptic"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "Mosin9130",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "B95",
+            "Attachments": [
+                "HuntingOptic"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "B95",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "CZ527",
+            "Attachments": [
+                "HuntingOptic"
+            ],
+            "Chance": 0.3
+        },
+        {
+            "Name": "CZ527",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "CZ75",
+            "Attachments": [
+                "TLRLight"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "CZ75",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "FNX45",
+            "Attachments": [
+                "TLRLight"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "FNX45",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "Expansion_Kedr",
+            "Attachments": [
+                "PistolSuppressor"
+            ],
+            "Chance": 0.2
+        },
+        {
+            "Name": "Expansion_Kedr",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "Mp133Shotgun",
+            "Attachments": [],
+            "Chance": 0.8
+        },
+        {
+            "Name": "Winchester70",
+            "Attachments": [
+                "HuntingOptic"
+            ],
+            "Chance": 0.1
+        },
+        {
+            "Name": "Winchester70",
+            "Attachments": [],
+            "Chance": 0.4
+        },
+        {
+            "Name": "Expansion_DT11",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "Binoculars",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "ChernarusMap",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "Rangefinder",
+            "Attachments": [
+                "Battery9V"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "ExpansionGPS",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "BoxCerealCrunchin",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "PeachesCan",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "BakedBeansCan",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "SpaghettiCan",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "SardinesCan",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "TunaCan",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "WaterBottle",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "CanOpener",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "KitchenKnife",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "BallisticHelmet_UN",
+            "Attachments": [],
+            "Chance": 0.08
+        },
+        {
+            "Name": "DirtBikeHelmet_Chernarus",
+            "Attachments": [
+                "DirtBikeHelmet_Visor"
+            ],
+            "Chance": 0.3
+        },
+        {
+            "Name": "SewingKit",
+            "Attachments": [],
+            "Chance": 0.25
+        },
+        {
+            "Name": "LeatherSewingKit",
+            "Attachments": [],
+            "Chance": 0.25
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "Lockpick",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "GhillieAtt_Mossy",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "Mag_Expansion_Kedr_20Rnd",
+            "Attachments": [],
+            "Chance": 0.8
+        },
+        {
+            "Name": "Mag_CZ527_5rnd",
+            "Attachments": [],
+            "Chance": 0.9
+        },
+        {
+            "Name": "Mag_CZ75_15Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Mag_FNX45_15Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Mag_UMP_25Rnd",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "AmmoBox_9x39_20Rnd",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "AmmoBox_9x19_25Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "AmmoBox_762x39Tracer_20Rnd",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "AmmoBox_762x39_20Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "AmmoBox_45ACP_25Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "AmmoBox_308WinTracer_20Rnd",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "AmmoBox_308Win_20Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "AmmoBox_12gaSlug_10Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "AmmoBox_12gaRubberSlug_10Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "AmmoBox_12gaPellets_10Rnd",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Ammo_9x39",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "Ammo_762x39Tracer",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "Ammo_762x39",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Ammo_45ACP",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Ammo_308WinTracer",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "Ammo_308Win",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Ammo_12gaSlug",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Ammo_12gaRubberSlug",
+            "Attachments": [],
+            "Chance": 1
+        },
+        {
+            "Name": "Ammo_12gaPellets",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "BandageDressing",
+                "BandageDressing",
+                "BandageDressing",
+                "BandageDressing",
+                "BandageDressing",
+                "BandageDressing"
+            ],
+            "Chance": 0.03
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "BandageDressing",
+                "SalineBagIV"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "CharcoalTablets",
+                "Morphine"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "Epinephrine",
+                "StartKitIV"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "Morphine",
+                "SalineBagIV"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "PainkillerTablets",
+                "Epinephrine"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "TetracyclineAntiBiotics",
+                "Morphine"
+            ],
+            "Chance": 0.05
+        },
+        {
+            "Name": "FirstAidKit",
+            "Attachments": [
+                "BandageDressing",
+                "VitaminBottle"
+            ],
+            "Chance": 0.05
+        }
+    ],
+    "Infected": [
+        "ZmbM_HermitSkinny_Base",
+        "ZmbM_HermitSkinny_Beige",
+        "ZmbM_HermitSkinny_Black",
+        "ZmbM_HermitSkinny_Green",
+        "ZmbM_HermitSkinny_Red",
+        "ZmbM_FarmerFat_Base",
+        "ZmbM_FarmerFat_Beige",
+        "ZmbM_FarmerFat_Blue",
+        "ZmbM_FarmerFat_Brown",
+        "ZmbM_FarmerFat_Green",
+        "ZmbF_CitizenANormal_Base",
+        "ZmbF_CitizenANormal_Beige",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Grey",
+        "ZmbF_CitizenANormal_Red",
+        "ZmbM_CitizenBFat_Blue",
+        "ZmbM_CitizenBFat_Red",
+        "ZmbM_CitizenBFat_Green",
+        "ZmbF_CitizenBSkinny",
+        "ZmbM_FishermanOld_Blue",
+        "ZmbM_FishermanOld_Green",
+        "ZmbM_FishermanOld_Grey",
+        "ZmbM_FishermanOld_Red",
+        "ZmbM_JournalistSkinny",
+        "ZmbF_JournalistNormal_Blue",
+        "ZmbF_JournalistNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_JournalistNormal_White",
+        "ZmbM_HiderSkinny_Blue",
+        "ZmbM_HiderSkinny_Green",
+        "ZmbM_HiderSkinny_Yellow",
+        "ZmbF_HiderSkinny_Blue",
+        "ZmbF_HiderSkinny_Grey",
+        "ZmbF_HiderSkinny_Green",
+        "ZmbF_HiderSkinny_Red",
+        "ZmbF_SurvivorNormal_Blue",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_SurvivorNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbM_CommercialPilotOld_Blue",
+        "ZmbM_CommercialPilotOld_Olive",
+        "ZmbM_CommercialPilotOld_Brown",
+        "ZmbM_CommercialPilotOld_Grey",
+        "ZmbM_JoggerSkinny_Blue",
+        "ZmbM_JoggerSkinny_Green",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbF_JoggerSkinny_Blue",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbM_MotorBikerFat_Beige",
+        "ZmbM_MotorBikerFat_Black",
+        "ZmbM_MotorBikerFat_Blue",
+        "ZmbM_VillagerOld_Blue",
+        "ZmbM_VillagerOld_Green",
+        "ZmbM_VillagerOld_White",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbF_SkaterYoung_Brown",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_SkaterYoung_Violet",
+        "ZmbM_OffshoreWorker_Green",
+        "ZmbM_OffshoreWorker_Orange",
+        "ZmbM_OffshoreWorker_Red",
+        "ZmbM_OffshoreWorker_Yellow",
+        "ZmbM_Jacket_beige",
+        "ZmbM_Jacket_black",
+        "ZmbM_Jacket_blue",
+        "ZmbM_Jacket_bluechecks",
+        "ZmbM_Jacket_brown",
+        "ZmbM_Jacket_green",
+        "ZmbM_Jacket_khaki",
+        "ZmbM_Jacket_magenta",
+        "ZmbM_Jacket_stripes",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_ShortSkirt_black",
+        "ZmbF_ShortSkirt_brown",
+        "ZmbF_ShortSkirt_green",
+        "ZmbF_ShortSkirt_grey",
+        "ZmbF_ShortSkirt_checks",
+        "ZmbF_ShortSkirt_red",
+        "ZmbF_ShortSkirt_stripes",
+        "ZmbF_ShortSkirt_white",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_VillagerOld_Blue",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_VillagerOld_White",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_MilkMaidOld_Black",
+        "ZmbF_MilkMaidOld_Green",
+        "ZmbF_MilkMaidOld_Grey"
+    ],
+    "ItemCount": 30,
+    "InfectedCount": 25
+}

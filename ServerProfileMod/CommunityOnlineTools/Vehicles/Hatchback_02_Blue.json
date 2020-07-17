@@ -1,0 +1,19 @@
+{
+    "VehicleName": "Hatchback_02_Blue",
+    "DisplayName": "",
+    "Parts": [
+        "Hatchback_02_Hood_Blue",
+        "Hatchback_02_Trunk_Black",
+        "Hatchback_02_Door_1_1_Red",
+        "Hatchback_02_Door_1_2_BlackRust",
+        "Hatchback_02_Door_2_1_BlueRust",
+        "Hatchback_02_Door_2_2",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

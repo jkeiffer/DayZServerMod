@@ -1,0 +1,14 @@
+{
+    "EnableNotification": 1,
+    "ShowPlayerJoinServer": 1,
+    "JoinMessageType": 1,
+    "ShowPlayerLeftServer": 1,
+    "LeftMessageType": 1,
+    "ShowAirdropStarted": 1,
+    "ShowAirdropClosingOn": 1,
+    "ShowAirdropDropped": 1,
+    "ShowPlayerAirdropStarted": 1,
+    "ShowPlayerAirdropClosingOn": 1,
+    "ShowPlayerAirdropDropped": 1,
+    "ShowTerritoryNotifications": 1
+}

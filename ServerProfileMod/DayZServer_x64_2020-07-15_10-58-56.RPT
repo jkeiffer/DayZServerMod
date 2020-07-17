@@ -1,0 +1,539 @@
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\DayZServerMod\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=serverDZ.cfg -profiles=ServerProfileMod -limitFPS=120 -mod=@CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion
+=====================================================================
+Exe timestamp: 2020/07/14 09:33:09
+Current time:  2020/07/15 10:59:01
+
+Version 1.08.153276
+10:59:01.678 [Inputs] Loading inputs default "bin/constants.xml"
+10:59:01.678 [Inputs] Loading inputs default "bin/specific.xml"
+10:59:01.678 !!! [Inputs] Invalid input name used "UAUIInspectItem" for context "ui" in "bin/specific.xml"
+10:59:01.678 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+10:59:01.678 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+10:59:01.678 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+10:59:01.678 !!! [Inputs] Attempt to insert input twice "UAExpansionHeliAntiTorqueRight"
+10:59:01.678 !!! [Inputs] Invalid input name used "UAExpansionSampleMenuToggle" for exclude "chatexpansion" in "DayZExpansion/Scripts/Data/Inputs.xml"
+10:59:01.678 !!! [Inputs] Cannot Register "UAExpansionSampleMenuToggle" non-existent input - Fix Preset!
+10:59:01.678 [Inputs] Loading inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml"
+10:59:01.678 !!! [Inputs] Cannot read inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml", parser error
+10:59:01.678 [Inputs] Loading inputs cfg "bin/core.xml"
+10:59:01.678 !!! [Inputs] Cannot load input preset "user", file does not exist
+10:59:01.678 [Inputs] Exporting inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml"
+10:59:22.21 [CE][Hive] :: Initializing OFFLINE
+10:59:22.21 [CE][Hive] :: Loading core data ... 
+10:59:22.21 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+10:59:26.223 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+10:59:26.223 [CE][TypeSetup] :: 421 classes setuped...
+10:59:26.239 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+10:59:26.239 [CE][TypeSetup] :: 34 classes setuped...
+10:59:26.708 [CE][RegisterBind] :: 0 classes binded...
+10:59:26.708 [CE][RegisterConfig] :: 6936 config classes registered, 1 sub-counters...
+10:59:26.708 [CE][Hive] :: Loading map data ... 
+10:59:26.770 [CE][LoadPrototype] :: loaded 329 prototypes
+10:59:26.770   701 containers, 9117 points
+10:59:26.770   24 dispatches, 90 proxies
+10:59:26.770 !!! [CE][LoadPrototype] 12 groups have no points...
+10:59:26.770 !!![CE][LoadPrototype]  3 groups have wrong points...
+10:59:26.770 [CE][LoadPrototype] :: last group name: Land_Lunapark_Autodrome...
+10:59:26.786 [CE][LoadPrototype] :: loaded 0 prototypes
+10:59:26.786   0 containers, 0 points
+10:59:26.786   0 dispatches, 0 proxies
+10:59:26.786 [CE][LoadPrototype] :: last group name: Rail9...
+10:59:27.348 [CE][LoadMap] "Group" :: loaded 11599 groups, largest group range: 34.2
+10:59:27.348 [CE][LoadMap] "Dirt" :: loaded 0 groups, largest group range: 34.2
+10:59:27.770 [CE][Links] found 1896 total links between groups, of 11599
+10:59:27.770 [CE][LoadClusters] "Cluster" :: Loading files...
+10:59:28.20 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+10:59:28.286 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+10:59:28.567 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+10:59:28.833 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+10:59:28.942 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17229 instances
+10:59:28.942 [CE][Storage] ver:21 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+10:59:28.973 [CE][Storage] ver:21 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+10:59:29.20 [CE][Storage] ver:21 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+10:59:29.20 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\types.bin".
+10:59:29.114 [CE][offlineDB] :: Loaded 37 dynamic events 208 total types 0 total positions.
+10:59:29.114 [CE][offlineDB] :: Loaded 47 dynamic events 221 total types 0 total positions.
+10:59:29.161 [CE][Storage] ver:21 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+10:59:29.176 [CE][Storage] ver:21 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+10:59:29.176 [CE][Storage] ver:21 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+10:59:29.176 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\events.bin".
+10:59:29.176 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 1
+10:59:29.176 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+10:59:29.176 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+10:59:29.192 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+10:59:29.192 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin" 1335 items.
+10:59:29.973   1335 items loaded.
+10:59:29.989 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+10:59:29.989 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+10:59:29.989 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+10:59:29.989 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1604 items.
+10:59:30.661   1604 items loaded.
+10:59:30.661 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+10:59:30.676 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+10:59:30.676 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+10:59:30.676 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2576 items.
+10:59:31.567   2576 items loaded.
+10:59:31.567 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+10:59:31.567 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+10:59:31.567 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+10:59:31.567 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 1972 items.
+10:59:32.239   1972 items loaded.
+10:59:32.239 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+10:59:32.239 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+10:59:32.254 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+10:59:32.254 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1856 items.
+10:59:32.832   1856 items loaded.
+10:59:32.832 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+10:59:32.832 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+10:59:32.848 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+10:59:32.848 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin" 1992 items.
+10:59:33.520   1992 items loaded.
+10:59:33.520 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+10:59:33.535 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+10:59:33.535 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+10:59:33.535 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin" 1406 items.
+10:59:34.04   1406 items loaded.
+10:59:34.04 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+10:59:34.04 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+10:59:34.04 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+10:59:34.04 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin" 1376 items.
+10:59:34.457   1376 items loaded.
+10:59:34.457 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+10:59:34.457 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+10:59:34.457 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+10:59:34.457 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin" 2005 items.
+10:59:35.254   2005 items loaded.
+10:59:35.254 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+10:59:35.270 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+10:59:35.270 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+10:59:35.270 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin" 2683 items.
+10:59:36.316   2683 items loaded.
+10:59:36.316 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+10:59:36.332 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+10:59:36.332 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+10:59:36.332 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin" 1600 items.
+10:59:36.957   1600 items loaded.
+10:59:36.957 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+10:59:36.957 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+10:59:36.973 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+10:59:36.973 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin" 155 items.
+10:59:37.19   155 items loaded.
+10:59:37.19 [CE][Storage] ver:25 stamp:915, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+10:59:37.35 [CE][Storage] ver:25 stamp:913, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+10:59:37.35 [CE][Storage] ver:25 stamp:914, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+10:59:37.35 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin" 137 items.
+10:59:37.910   137 items loaded.
+10:59:38.254 [CE][Hive] :: Storage load took:9.08 seconds, recovery stamp:915
+10:59:38.254   entity: 22241, building: 0
+10:59:38.254   no lifetime: 3056
+10:59:38.254 [CE][Hive] :: Initializing ... 
+10:59:38.269 [CE][InitializeMap] :: initialized: 0
+10:59:38.269 [CE][Hive] :: Initializing spawners ... 
+10:59:39.222 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "ExpansionHelipadKit"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.238 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "HatchbackTrunk_BlueRust"
+10:59:39.597 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:264, Nominal:21403, Total in Map: 37444 at 0 (sec)
+10:59:39.597   tests:266, repeats:2 fails:0, overtime:814
+10:59:39.597 [CE][DynEvent] :: 47 types
+10:59:39.597 [00] AmbientHen
+10:59:39.597   Primary Spawner: "Ambient", active: yes, repeat: 1
+10:59:39.597 [01] AnimalBear
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [02] AnimalCow
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [03] AnimalDeer
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [04] AnimalGoat
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [05] AnimalPig
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [06] AnimalRoeDeer
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [07] AnimalSheep
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [08] AnimalWildBoar
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [09] AnimalWolf
+10:59:39.597   Primary Spawner: "Animal", active: yes, repeat: 1
+10:59:39.597 [10] InfectedArmy
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [11] InfectedCity
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [12] InfectedFirefighter
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [13] InfectedIndustrial
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [14] InfectedMedic
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [15] InfectedPolice
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [16] InfectedPrisoner
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [17] InfectedReligious
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [18] InfectedSolitude
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [19] InfectedVillage
+10:59:39.597   Primary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [20] ItemPlanks
+10:59:39.597   Primary Spawner: "Item", active: yes, repeat: 1
+10:59:39.597 [21] Loot
+10:59:39.597   Primary Spawner: "Loot", active: yes, repeat: 2
+10:59:39.597 [22] StaticHeliCrash
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597   Secondary Spawner: "Infected", active: yes, repeat: 1
+10:59:39.597 [23] StaticPoliceCar
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [24] TrajectoryApple
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [25] TrajectoryCanina
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [26] TrajectoryConiferous
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [27] TrajectoryDeciduous
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [28] TrajectoryHumus
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [29] TrajectoryPear
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [30] TrajectoryPlum
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [31] TrajectorySambucus
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [32] TrajectoryStones
+10:59:39.597   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:59:39.597 [33] VehicleCivilianSedan
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [34] VehicleHatchback02
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [35] VehicleOffroadHatchback
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [36] VehicleSedan02
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [37] VehicleUAZ
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [38] VehicleVodnik
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [39] VehicleBus
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [40] VehicleTractor
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [41] VehicleMH6Helicopter
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [42] VehicleMerlinHelicopter
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [43] VehicleUh1hHelicopter
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [44] VehicleUtilityBoat
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [45] VehicleZodiacBoat
+10:59:39.597   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:59:39.597 [46] AmbientHare
+10:59:39.597   Primary Spawner: "Ambient", active: yes, repeat: 1
+10:59:39.597 [CE][Hive] :: Initializing of spawners done.
+10:59:39.613 [CE][Hive] :: Init sequence finished.
+10:59:39.613 Player connect enabled
+10:59:39.816 [Login]: Adding player Survivor (141000906) to login queue at position 0
+10:59:39.816 [LoginMachine]: Add player Survivor (141000906)
+10:59:39.816 [StateMachine]: Player Survivor (dpnid 141000906 uid ) Entering AuthPlayerLoginState
+10:59:40.785 [IdleMode] Entering IN - save processed
+10:59:44.128 [StateMachine]: Player Survivor (dpnid 141000906 uid ) Entering WaitAuthPlayerLoginState
+10:59:45.659 [IdleMode] Leaving OUT
+10:59:45.988 Player Survivor connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+10:59:45.988 Player "Survivor" is connected (steamID=76561198073956794)
+10:59:48.612 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+10:59:48.644 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState
+11:00:03.658 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetCharacterLoginState
+11:00:03.689 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering CreateNetObjectsLoginState
+11:00:03.705 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering PreloadCamLoginState
+11:00:03.705 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering WaitPreloadCamLoginState
+11:00:20.969 [StateMachine]: Player Survivor (dpnid 141000906 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering GetLoadedCharLoginState
+11:00:23.907 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 141000906
+    uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=
+11:10:06.19 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "FirefightersPants_Black"
+11:13:40.815 [Login]: Adding player Survivor (16015052) to login queue at position 0
+11:13:40.815 [LoginMachine]: Add player Survivor (16015052)
+11:13:40.815 [StateMachine]: Player Survivor (dpnid 16015052 uid ) Entering AuthPlayerLoginState
+11:13:41.753 [StateMachine]: Player Survivor (dpnid 16015052 uid ) Entering WaitAuthPlayerLoginState
+11:13:43.159 Player Survivor (2) connected (id=g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=).
+11:13:43.159 Player "Survivor (2)" is connected (steamID=76561197980071063)
+11:13:44.237 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetLoginTimeLoginState
+11:13:44.268 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBWaitLoginTimeLoginState
+11:13:59.283 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetCharacterLoginState
+11:13:59.314 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering CreateNetObjectsLoginState
+11:13:59.330 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering PreloadCamLoginState
+11:13:59.345 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering WaitPreloadCamLoginState
+11:14:15.141 [StateMachine]: Player Survivor (dpnid 16015052 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering GetLoadedCharLoginState
+11:14:15.203 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 16015052
+    uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=
+11:17:56.203 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "Mag_UMP_25Rnd"
+11:25:47.862 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "UMP45"
+11:28:15.866 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ParamedicJacket_Blue"
+11:28:16.85 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "NBCPantsGray"
+11:32:19.838 [Disconnect]: Start script disconnect 141000906 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+11:44:20.487 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "SalineBag"
+11:44:52.766 [CE][Links] found 0 total links between groups, of 1
+11:44:52.766 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+11:53:39.781 [CE][Links] found 0 total links between groups, of 2
+11:53:39.781 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 19
+11:56:54.376 [Disconnect]: Start script disconnect 141000906 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+11:57:02.469 [Disconnect]: Client 141000906 disconnecting
+11:57:02.469 [Disconnect]: Client 141000906 early disconnect
+11:57:02.484 [Disconnect]: Start script disconnect 141000906 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+11:57:05.15 [CE][Links] found 0 total links between groups, of 3
+11:57:05.15 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+11:57:09.390 [Disconnect]: Finish script disconnect 141000906
+11:57:09.390 [Disconnect]: DisconnectPlayerFinish 141000906
+11:57:09.390 [Disconnect]: Remove player info 141000906
+11:57:09.406 [Disconnect]: Player destroy 141000906 
+11:58:01.396 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Morphine"
+12:07:48.761 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "MedicalScrubsShirt_Green"
+12:12:14.302 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "ParamedicPants_Green"
+12:14:40.807 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "MedicalScrubsShirt_Blue"
+12:14:40.807 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "MedicalScrubsShirt_Blue"
+12:14:41.26 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "MedicalScrubsShirt_White"
+12:18:35.399 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "PolicePantsOrel"
+12:22:30.131 !!! [CE][Point] Removing 8275.707031, 2464.159180 from Land_Boat_Small2
+12:25:30.868 [Disconnect]: Start script disconnect 16015052 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+12:25:45.882 [Disconnect]: Finish script disconnect 16015052
+12:25:45.882 [Disconnect]: DisconnectPlayerFinish 16015052
+12:25:46.101 [Disconnect]: Remove player info 16015052
+12:25:46.101 [Disconnect]: Player destroy 16015052 
+12:27:06.204 [IdleMode] Entering IN - save processed
+12:40:32.142 [Login]: Adding player Survivor (932362677) to login queue at position 0
+12:40:32.142 [LoginMachine]: Add player Survivor (932362677)
+12:40:32.142 [StateMachine]: Player Survivor (dpnid 932362677 uid ) Entering AuthPlayerLoginState
+12:40:33.267 [StateMachine]: Player Survivor (dpnid 932362677 uid ) Entering WaitAuthPlayerLoginState
+12:40:34.64 [IdleMode] Leaving OUT
+12:40:34.642 Player Survivor connected (id=g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=).
+12:40:34.642 Player "Survivor" is connected (steamID=76561197980071063)
+12:40:39.751 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetLoginTimeLoginState
+12:40:39.783 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBWaitLoginTimeLoginState
+12:40:54.797 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetCharacterLoginState
+12:40:54.828 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering CreateNetObjectsLoginState
+12:40:54.844 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering PreloadCamLoginState
+12:40:54.844 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering WaitPreloadCamLoginState
+12:41:13.264 [StateMachine]: Player Survivor (dpnid 932362677 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering GetLoadedCharLoginState
+12:41:13.405 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 932362677
+    uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=
+12:44:24.453 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "LabCoat"
+12:44:53.373 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "BDUPants"
+12:45:55.87 [CE][Links] found 0 total links between groups, of 4
+12:45:55.87 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+12:50:16.723 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "PolicePants"
+12:50:17.254 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "GorkaPants_Summer"
+12:52:43.821 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "M65Jacket_Black"
+12:54:43.281 [CE][Links] found 0 total links between groups, of 5
+12:54:43.281 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 15
+12:58:10.63 [CE][Links] found 0 total links between groups, of 6
+12:58:10.63 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+12:59:05.762 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "USMCPants_Woodland"
+13:08:55.327 [CE][Links] found 0 total links between groups, of 7
+13:08:55.327 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 15
+13:31:55.897 [CE][Links] found 0 total links between groups, of 8
+13:31:55.897 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+13:38:24.650 [Login]: Adding player Survivor (648339336) to login queue at position 0
+13:38:24.650 [LoginMachine]: Add player Survivor (648339336)
+13:38:24.650 [StateMachine]: Player Survivor (dpnid 648339336 uid ) Entering AuthPlayerLoginState
+13:38:25.571 [StateMachine]: Player Survivor (dpnid 648339336 uid ) Entering WaitAuthPlayerLoginState
+13:38:27.509 Player Survivor (2) connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+13:38:27.509 Player "Survivor (2)" is connected (steamID=76561198073956794)
+13:38:29.977 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+13:38:30.08 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState
+13:38:45.23 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetCharacterLoginState
+13:38:45.54 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering CreateNetObjectsLoginState
+13:38:45.70 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering PreloadCamLoginState
+13:38:45.86 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering WaitPreloadCamLoginState
+13:39:01.803 [StateMachine]: Player Survivor (dpnid 648339336 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering GetLoadedCharLoginState
+13:39:01.881 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 648339336
+    uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=
+13:42:14.736 [CE][Links] found 0 total links between groups, of 9
+13:42:14.736 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11
+13:44:11.71 [CE][Links] found 0 total links between groups, of 10
+13:44:11.71 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+13:56:20.522 [CE][Links] found 0 total links between groups, of 11
+13:56:20.522 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 15
+13:59:41.721 !!! [CE][Point] Removing 13283.112305, 10092.816406 from Land_Boat_Small1
+14:03:09.662 [CE][Links] found 0 total links between groups, of 12
+14:03:09.662 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+14:03:35.520 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "PSO1Optic"
+14:06:59.958 !!! [CE][Point] Removing 2225.433594, 10974.164063 from AppleTree2
+14:19:08.762 [CE][Links] found 0 total links between groups, of 13
+14:19:08.762 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+14:20:38.176 [CE][Links] found 0 total links between groups, of 14
+14:20:38.176 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+14:21:28.813 [Login]: Adding player Survivor (58712060) to login queue at position 0
+14:21:28.813 [LoginMachine]: Add player Survivor (58712060)
+14:21:28.813 [StateMachine]: Player Survivor (dpnid 58712060 uid ) Entering AuthPlayerLoginState
+14:21:29.798 [StateMachine]: Player Survivor (dpnid 58712060 uid ) Entering WaitAuthPlayerLoginState
+14:21:31.344 Player Survivor (3) connected (id=Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=).
+14:21:31.344 Player "Survivor (3)" is connected (steamID=76561198123513865)
+14:21:33.813 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBGetLoginTimeLoginState
+14:21:33.844 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBWaitLoginTimeLoginState
+14:21:48.859 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBGetCharacterLoginState
+14:21:48.890 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering CreateNetObjectsLoginState
+14:21:48.921 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering PreloadCamLoginState
+14:21:48.921 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering WaitPreloadCamLoginState
+14:22:05.154 [StateMachine]: Player Survivor (dpnid 58712060 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering GetLoadedCharLoginState
+14:22:05.248 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 58712060
+    uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=
+14:27:53.566 [CE][Links] found 0 total links between groups, of 15
+14:27:53.566 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 11
+14:33:17.588 !!! [CE][Point] Removing 6398.124023, 2202.714355 from SambucusBush1
+14:34:44.269 [CE][Links] found 0 total links between groups, of 16
+14:34:44.269 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+14:43:28.600 [CE][Links] found 0 total links between groups, of 17
+14:43:28.600 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 14
+14:45:00.530 [Disconnect]: Start script disconnect 648339336 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+14:45:04.780 [Disconnect]: Client 648339336 disconnecting
+14:45:04.780 [Disconnect]: Client 648339336 early disconnect
+14:45:04.796 [Disconnect]: Start script disconnect 648339336 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+14:45:15.545 [Disconnect]: Finish script disconnect 648339336
+14:45:15.545 [Disconnect]: DisconnectPlayerFinish 648339336
+14:45:15.545 [Disconnect]: Remove player info 648339336
+14:45:15.592 [Disconnect]: Player destroy 648339336 
+14:48:48.107 [CE][Links] found 0 total links between groups, of 18
+14:48:48.107 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+15:06:25.621 [CE][Links] found 0 total links between groups, of 19
+15:06:25.621 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+15:06:25.621 [CE][Links] found 0 total links between groups, of 20
+15:06:25.621 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+15:10:03.42 [Disconnect]: Start script disconnect 58712060 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
+15:10:18.57 [Disconnect]: Finish script disconnect 58712060
+15:10:18.57 [Disconnect]: DisconnectPlayerFinish 58712060
+15:10:18.447 [Disconnect]: Remove player info 58712060
+15:10:18.463 [Disconnect]: Player destroy 58712060 
+15:15:14.472 [CE][Links] found 0 total links between groups, of 21
+15:15:14.472 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11
+15:20:37.510 [CE][Links] found 0 total links between groups, of 22
+15:20:37.510 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+15:22:34.610 !!! [CE][Point] Removing 1926.620483, 7355.846680 from PlumTree1
+15:22:34.610 !!! [CE][Point] Removing 1980.739746, 7332.198730 from PlumTree1
+15:24:29.211 !!! [CE][Point] Removing 1993.140869, 7363.953125 from PearTree2
+15:29:19.970 [CE][Links] found 0 total links between groups, of 23
+15:29:19.970 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 17
+15:32:45.65 [CE][Links] found 0 total links between groups, of 24
+15:32:45.65 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+15:34:40.822 [CE][Links] found 0 total links between groups, of 25
+15:34:40.822 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+15:45:23.742 !!! [CE][Point] Removing 4718.886719, 6898.860352 from PearTree3
+15:52:12.460 [CE][Links] found 0 total links between groups, of 26
+15:52:12.460 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+15:52:12.476 [CE][Links] found 0 total links between groups, of 27
+15:52:12.476 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+15:59:33.833 !!! [CE][Point] Removing 4594.342285, 7890.470215 from PlumTree1
+16:00:01.628 !!! [CE][Point] Removing 11519.519531, 14102.523438 from Land_Misc_TrailRoof_Small
+16:01:01.717 [CE][Links] found 2 total links between groups, of 28
+16:01:01.717 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:07:54.702 [CE][Links] found 2 total links between groups, of 29
+16:07:54.702 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:16:43.474 [CE][Links] found 4 total links between groups, of 30
+16:16:43.474 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11
+16:16:43.802 [CE][Links] found 4 total links between groups, of 31
+16:16:43.802 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:18:40.91 [CE][Links] found 4 total links between groups, of 32
+16:18:40.91 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:22:06.590 [CE][Links] found 4 total links between groups, of 33
+16:22:06.590 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:35:52.32 [CE][Links] found 4 total links between groups, of 34
+16:35:52.32 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 10
+16:39:44.919 [CE][Links] found 4 total links between groups, of 35
+16:39:44.919 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:39:44.919 [CE][Links] found 4 total links between groups, of 36
+16:39:44.919 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+16:48:34.271 [CE][Links] found 4 total links between groups, of 37
+16:48:34.271 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+16:53:57.121 [CE][Links] found 4 total links between groups, of 38
+16:53:57.121 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+16:54:54.617 !!! [CE][Point] Removing 2518.522217, 5262.403809 from Land_BusStation_wall_bench
+16:57:23.637 [CE][Links] found 4 total links between groups, of 39
+16:57:23.637 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:02:46.487 [CE][Links] found 4 total links between groups, of 40
+17:02:46.487 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+17:04:16.325 [CE][Links] found 4 total links between groups, of 41
+17:04:16.325 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 14
+17:06:12.972 [CE][Links] found 4 total links between groups, of 42
+17:06:12.972 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+17:09:39.503 [CE][Links] found 4 total links between groups, of 43
+17:09:39.503 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+17:11:35.822 [CE][Links] found 4 total links between groups, of 44
+17:11:35.822 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:20:25.501 !!! [CE][Point] Removing 2147.144043, 12703.178711 from AppleTree3
+17:21:55.25 [CE][Links] found 4 total links between groups, of 45
+17:21:55.25 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 18
+17:27:18.185 [CE][Links] found 4 total links between groups, of 46
+17:27:18.185 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+17:27:18.185 [CE][Links] found 4 total links between groups, of 47
+17:27:18.200 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:36:07.582 [CE][Links] found 4 total links between groups, of 48
+17:36:07.582 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+17:41:30.354 [CE][Links] found 6 total links between groups, of 49
+17:41:30.354 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:43:22.580 [Login]: Adding player Survivor (65264724) to login queue at position 0
+17:43:22.580 [LoginMachine]: Add player Survivor (65264724)
+17:43:22.580 [StateMachine]: Player Survivor (dpnid 65264724 uid ) Entering AuthPlayerLoginState
+17:43:23.611 [StateMachine]: Player Survivor (dpnid 65264724 uid ) Entering WaitAuthPlayerLoginState
+17:43:25.173 Player Survivor (2) connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+17:43:25.173 Player "Survivor (2)" is connected (steamID=76561198073956794)
+17:43:27.533 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+17:43:27.564 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState
+17:43:42.578 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetCharacterLoginState
+17:43:42.610 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering CreateNetObjectsLoginState
+17:43:42.625 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering PreloadCamLoginState
+17:43:42.641 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering WaitPreloadCamLoginState
+17:44:00.593 [StateMachine]: Player Survivor (dpnid 65264724 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering GetLoadedCharLoginState
+17:44:00.702 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 65264724
+    uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=
+17:44:56.870 [CE][Links] found 6 total links between groups, of 50
+17:44:56.870 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:50:19.110 [CE][Links] found 6 total links between groups, of 51
+17:50:19.110 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:51:48.869 [CE][Links] found 6 total links between groups, of 52
+17:51:48.869 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10
+17:53:45.344 [CE][Links] found 8 total links between groups, of 53
+17:53:45.344 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+17:55:41.367 [CE][Links] found 8 total links between groups, of 54
+17:55:41.367 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+18:00:37.563 [CE][Links] found 8 total links between groups, of 55
+18:00:37.563 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+18:07:55.655 [CE][Links] found 10 total links between groups, of 56
+18:07:55.655 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 13

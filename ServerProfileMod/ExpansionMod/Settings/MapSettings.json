@@ -1,0 +1,14 @@
+{
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "CanCreateMarker": 1,
+    "ShowPlayerPosition": 1,
+    "CanCreatePartyMarkers": 1,
+    "ShowMapStats": 1,
+    "CanCreate3DMarker": 1,
+    "ShowPartyMembersMapMarkers": 1,
+    "ShowServerMarkers": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowVehicleDebugMarkers": 0,
+    "ServerMarkers": []
+}

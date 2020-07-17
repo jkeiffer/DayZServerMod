@@ -1,0 +1,201 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServerMod\ServerProfileMod\crash_2020-07-14_18-51-03.log started at 14.07. 18:52:26
+
+
+
+------------------------------------
+NCC-1701, 14.07 2020 18:52:26
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 18:52:49
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:03:25
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:04:37
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:171
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:06:58
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:09:00
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:09:38
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:171
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:18:21
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:171
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 19:45:58
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:171
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 21:10:40
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 14.07 2020 21:24:01
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:151
+DayZExpansion/Scripts/5_Mission/dayzexpansion\mission\missionserver.c:180
+scripts/5_Mission/mission\missionserver.c:405
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:122
+scripts/5_Mission/mission\missionserver.c:164
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:18
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 

@@ -1,0 +1,7 @@
+{
+    "VehicleSync": 0,
+    "VehicleRequireKeyToStart": 1,
+    "VehicleRequireAllDoors": 1,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 1
+}

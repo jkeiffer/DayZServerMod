@@ -1,0 +1,17 @@
+{
+    "VehicleName": "ExpansionTractor",
+    "DisplayName": "",
+    "Parts": [
+        "ExpansionTractorFrontWheel",
+        "ExpansionTractorFrontWheel",
+        "ExpansionTractorBackWheel",
+        "ExpansionTractorBackWheel",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ExpansionTractorDoorsDriver",
+        "ExpansionTractorDoorsCodriver",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

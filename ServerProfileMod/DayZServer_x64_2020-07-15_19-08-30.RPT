@@ -1,0 +1,380 @@
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\DayZServerMod\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=serverDZ.cfg -profiles=ServerProfileMod -limitFPS=120 -mod=@CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion
+=====================================================================
+Exe timestamp: 2020/07/14 09:33:09
+Current time:  2020/07/15 19:08:36
+
+Version 1.08.153276
+19:08:36.571 [Inputs] Loading inputs default "bin/constants.xml"
+19:08:36.573 [Inputs] Loading inputs default "bin/specific.xml"
+19:08:36.574 !!! [Inputs] Invalid input name used "UAUIInspectItem" for context "ui" in "bin/specific.xml"
+19:08:36.574 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+19:08:36.575 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+19:08:36.575 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+19:08:36.575 !!! [Inputs] Attempt to insert input twice "UAExpansionHeliAntiTorqueRight"
+19:08:36.575 !!! [Inputs] Invalid input name used "UAExpansionSampleMenuToggle" for exclude "chatexpansion" in "DayZExpansion/Scripts/Data/Inputs.xml"
+19:08:36.576 !!! [Inputs] Cannot Register "UAExpansionSampleMenuToggle" non-existent input - Fix Preset!
+19:08:36.576 [Inputs] Loading inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml"
+19:08:36.576 !!! [Inputs] Cannot read inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml", parser error
+19:08:36.576 [Inputs] Loading inputs cfg "bin/core.xml"
+19:08:36.576 !!! [Inputs] Cannot load input preset "user", file does not exist
+19:08:36.578 [Inputs] Exporting inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml"
+19:08:56.957 [CE][Hive] :: Initializing OFFLINE
+19:08:56.958 [CE][Hive] :: Loading core data ... 
+19:08:56.964 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+19:09:01.89 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+19:09:01.91 [CE][TypeSetup] :: 421 classes setuped...
+19:09:01.98 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+19:09:01.98 [CE][TypeSetup] :: 34 classes setuped...
+19:09:01.598 [CE][RegisterBind] :: 0 classes binded...
+19:09:01.598 [CE][RegisterConfig] :: 6936 config classes registered, 1 sub-counters...
+19:09:01.598 [CE][Hive] :: Loading map data ... 
+19:09:01.671 [CE][LoadPrototype] :: loaded 329 prototypes
+19:09:01.671   701 containers, 9117 points
+19:09:01.671   24 dispatches, 90 proxies
+19:09:01.671 !!! [CE][LoadPrototype] 12 groups have no points...
+19:09:01.671 !!![CE][LoadPrototype]  3 groups have wrong points...
+19:09:01.671 [CE][LoadPrototype] :: last group name: Land_Lunapark_Autodrome...
+19:09:01.681 [CE][LoadPrototype] :: loaded 0 prototypes
+19:09:01.681   0 containers, 0 points
+19:09:01.681   0 dispatches, 0 proxies
+19:09:01.681 [CE][LoadPrototype] :: last group name: Rail9...
+19:09:02.176 [CE][LoadMap] "Group" :: loaded 11599 groups, largest group range: 34.2
+19:09:02.181 [CE][LoadMap] "Dirt" :: loaded 0 groups, largest group range: 34.2
+19:09:02.631 [CE][Links] found 1896 total links between groups, of 11599
+19:09:02.631 [CE][LoadClusters] "Cluster" :: Loading files...
+19:09:02.899 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+19:09:03.180 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+19:09:03.474 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+19:09:03.770 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+19:09:03.881 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17229 instances
+19:09:03.887 [CE][Storage] ver:21 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+19:09:03.922 [CE][Storage] ver:21 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+19:09:03.957 [CE][Storage] ver:21 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+19:09:03.958 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\types.bin".
+19:09:04.57 [CE][offlineDB] :: Loaded 37 dynamic events 208 total types 0 total positions.
+19:09:04.62 [CE][offlineDB] :: Loaded 47 dynamic events 221 total types 0 total positions.
+19:09:04.111 [CE][Storage] ver:21 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+19:09:04.116 [CE][Storage] ver:21 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+19:09:04.120 [CE][Storage] ver:21 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+19:09:04.121 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\events.bin".
+19:09:04.121 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 1
+19:09:04.122 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+19:09:04.127 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+19:09:04.133 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+19:09:04.133 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin" 1747 items.
+19:09:05.412   1747 items loaded.
+19:09:05.413 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+19:09:05.421 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+19:09:05.426 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+19:09:05.426 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1573 items.
+19:09:06.135   1573 items loaded.
+19:09:06.136 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+19:09:06.141 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+19:09:06.147 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+19:09:06.147 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2659 items.
+19:09:07.268   2659 items loaded.
+19:09:07.270 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+19:09:07.275 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+19:09:07.281 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+19:09:07.281 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 2122 items.
+19:09:08.155   2122 items loaded.
+19:09:08.156 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+19:09:08.161 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+19:09:08.167 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+19:09:08.167 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1880 items.
+19:09:09.36   1880 items loaded.
+19:09:09.37 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+19:09:09.43 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+19:09:09.48 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+19:09:09.48 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin" 2036 items.
+19:09:09.902   2036 items loaded.
+19:09:09.904 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+19:09:09.909 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+19:09:09.915 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+19:09:09.915 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin" 1421 items.
+19:09:10.530   1421 items loaded.
+19:09:10.531 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+19:09:10.537 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+19:09:10.542 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+19:09:10.543 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin" 1381 items.
+19:09:11.134   1381 items loaded.
+19:09:11.134 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+19:09:11.140 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+19:09:11.145 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+19:09:11.145 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin" 2021 items.
+19:09:12.194   2021 items loaded.
+19:09:12.195 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+19:09:12.200 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+19:09:12.206 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+19:09:12.206 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin" 2715 items.
+19:09:13.635   2715 items loaded.
+19:09:13.638 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+19:09:13.644 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+19:09:13.649 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+19:09:13.649 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin" 1682 items.
+19:09:14.546   1682 items loaded.
+19:09:14.547 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+19:09:14.552 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+19:09:14.556 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+19:09:14.556 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin" 160 items.
+19:09:14.632   160 items loaded.
+19:09:14.634 [CE][Storage] ver:25 stamp:1953, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+19:09:14.641 [CE][Storage] ver:25 stamp:1951, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+19:09:14.649 [CE][Storage] ver:25 stamp:1952, valid:yes, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+19:09:14.649 [CE][Storage] Restoring file "mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin" 119 items.
+19:09:15.540   119 items loaded.
+19:09:15.937 [CE][Hive] :: Storage load took:11.81 seconds, recovery stamp:1953
+19:09:15.937   entity: 23233, building: 0
+19:09:15.937   no lifetime: 3696
+19:09:15.938 [CE][Hive] :: Initializing ... 
+19:09:15.957 [CE][InitializeMap] :: initialized: 0
+19:09:15.957 [CE][Hive] :: Initializing spawners ... 
+19:09:17.118 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "ExpansionHelipadKit"
+19:09:17.119 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "ExpansionHelipadKit"
+19:09:17.119 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "ExpansionHelipadKit"
+19:09:17.120 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "ExpansionHelipadKit"
+19:09:17.120 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ExpansionHelipadKit"
+19:09:17.120 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "ExpansionHelipadKit"
+19:09:17.121 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "ExpansionHelipadKit"
+19:09:17.121 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "ExpansionHelipadKit"
+19:09:17.121 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "ExpansionHelipadKit"
+19:09:17.121 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "ExpansionHelipadKit"
+19:09:17.122 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.122 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.122 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.123 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.123 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.124 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.125 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.125 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.126 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.126 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "HatchbackTrunk_BlueRust"
+19:09:17.516 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:164, Nominal:21403, Total in Map: 38144 at 0 (sec)
+19:09:17.516   tests:165, repeats:1 fails:0, overtime:814
+19:09:17.516 [CE][DynEvent] :: 47 types
+19:09:17.516 [00] AmbientHen
+19:09:17.516   Primary Spawner: "Ambient", active: yes, repeat: 1
+19:09:17.516 [01] AnimalBear
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [02] AnimalCow
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [03] AnimalDeer
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [04] AnimalGoat
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [05] AnimalPig
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [06] AnimalRoeDeer
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [07] AnimalSheep
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [08] AnimalWildBoar
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [09] AnimalWolf
+19:09:17.516   Primary Spawner: "Animal", active: yes, repeat: 1
+19:09:17.516 [10] InfectedArmy
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [11] InfectedCity
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [12] InfectedFirefighter
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [13] InfectedIndustrial
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [14] InfectedMedic
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [15] InfectedPolice
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [16] InfectedPrisoner
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [17] InfectedReligious
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [18] InfectedSolitude
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [19] InfectedVillage
+19:09:17.516   Primary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.516 [20] ItemPlanks
+19:09:17.516   Primary Spawner: "Item", active: yes, repeat: 1
+19:09:17.516 [21] Loot
+19:09:17.516   Primary Spawner: "Loot", active: yes, repeat: 2
+19:09:17.516 [22] StaticHeliCrash
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517   Secondary Spawner: "Infected", active: yes, repeat: 1
+19:09:17.517 [23] StaticPoliceCar
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [24] TrajectoryApple
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [25] TrajectoryCanina
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [26] TrajectoryConiferous
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [27] TrajectoryDeciduous
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [28] TrajectoryHumus
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [29] TrajectoryPear
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [30] TrajectoryPlum
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [31] TrajectorySambucus
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [32] TrajectoryStones
+19:09:17.517   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:09:17.517 [33] VehicleCivilianSedan
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [34] VehicleHatchback02
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [35] VehicleOffroadHatchback
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [36] VehicleSedan02
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [37] VehicleUAZ
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [38] VehicleVodnik
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [39] VehicleBus
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [40] VehicleTractor
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [41] VehicleMH6Helicopter
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [42] VehicleMerlinHelicopter
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [43] VehicleUh1hHelicopter
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [44] VehicleUtilityBoat
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [45] VehicleZodiacBoat
+19:09:17.517   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:09:17.517 [46] AmbientHare
+19:09:17.517   Primary Spawner: "Ambient", active: yes, repeat: 1
+19:09:17.517 [CE][Hive] :: Initializing of spawners done.
+19:09:17.526 [CE][Hive] :: Init sequence finished.
+19:09:17.526 Player connect enabled
+19:09:18.793 [IdleMode] Entering IN - save processed
+19:09:58.374 [Login]: Adding player Survivor (66857980) to login queue at position 0
+19:09:58.374 [LoginMachine]: Add player Survivor (66857980)
+19:09:58.374 [StateMachine]: Player Survivor (dpnid 66857980 uid ) Entering AuthPlayerLoginState
+19:09:59.653 [StateMachine]: Player Survivor (dpnid 66857980 uid ) Entering WaitAuthPlayerLoginState
+19:09:59.863 [IdleMode] Leaving OUT
+19:10:01.376 Player Survivor connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+19:10:01.377 Player "Survivor" is connected (steamID=76561198073956794)
+19:10:04.449 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+19:10:04.496 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState
+19:10:19.496 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetCharacterLoginState
+19:10:19.527 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering CreateNetObjectsLoginState
+19:10:19.543 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering PreloadCamLoginState
+19:10:19.543 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering WaitPreloadCamLoginState
+19:10:36.511 [StateMachine]: Player Survivor (dpnid 66857980 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering GetLoadedCharLoginState
+19:10:39.527 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 66857980
+    uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=
+19:10:57.200 [Login]: Adding player Survivor (734467598) to login queue at position 0
+19:10:57.200 [LoginMachine]: Add player Survivor (734467598)
+19:10:57.200 [StateMachine]: Player Survivor (dpnid 734467598 uid ) Entering AuthPlayerLoginState
+19:10:58.43 [StateMachine]: Player Survivor (dpnid 734467598 uid ) Entering WaitAuthPlayerLoginState
+19:10:59.434 Player Survivor (2) connected (id=g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=).
+19:10:59.434 Player "Survivor (2)" is connected (steamID=76561197980071063)
+19:11:10.589 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetLoginTimeLoginState
+19:11:10.621 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBWaitLoginTimeLoginState
+19:11:25.621 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetCharacterLoginState
+19:11:25.637 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering CreateNetObjectsLoginState
+19:11:25.668 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering PreloadCamLoginState
+19:11:25.683 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering WaitPreloadCamLoginState
+19:11:27.168 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "TankerHelmet"
+19:11:30.636 [StateMachine]: Player Survivor (dpnid 734467598 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering GetLoadedCharLoginState
+19:11:30.699 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 734467598
+    uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=
+19:14:53.855 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "USMCJacket_Woodland"
+19:16:49.996 [Disconnect]: Start script disconnect 66857980 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+19:16:53.746 [Disconnect]: Client 66857980 disconnecting
+19:16:53.746 [Disconnect]: Client 66857980 early disconnect
+19:16:53.761 [Disconnect]: Start script disconnect 66857980 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+19:16:53.777 [Disconnect]: Remove player info 66857980
+19:16:53.777 [Disconnect]: Player destroy 66857980 
+19:17:04.996 [Disconnect]: Finish script disconnect -1
+19:19:04.105 [Login]: Adding player Survivor (16847165) to login queue at position 0
+19:19:04.105 [LoginMachine]: Add player Survivor (16847165)
+19:19:04.105 [StateMachine]: Player Survivor (dpnid 16847165 uid ) Entering AuthPlayerLoginState
+19:19:05.74 [StateMachine]: Player Survivor (dpnid 16847165 uid ) Entering WaitAuthPlayerLoginState
+19:19:06.590 Player Survivor connected (id=7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=).
+19:19:06.590 Player "Survivor" is connected (steamID=76561197988278919)
+19:19:08.402 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering DBGetLoginTimeLoginState
+19:19:08.433 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering DBWaitLoginTimeLoginState
+19:19:23.433 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering DBGetCharacterLoginState
+19:19:23.465 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering CreateNetObjectsLoginState
+19:19:23.480 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering PreloadCamLoginState
+19:19:23.480 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering WaitPreloadCamLoginState
+19:19:49.27 [StateMachine]: Player Survivor (dpnid 16847165 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering GetLoadedCharLoginState
+19:19:49.74 <LOAD EXISTING CHAR>:
+    charID 4
+    playerID 4
+    dpnid 16847165
+    uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=
+19:23:45.308 !!! [CE][Point] Removing 6315.318359, 7578.545410 from PlumTree1
+19:33:03.106 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "USMCPants_Desert"
+19:39:26.840 !!! [CE][Point] Removing 9232.158203, 2068.328369 from Haybale
+19:48:10.902 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "PolicePants"
+19:56:59.339 !!! [CE][Point] Removing 5764.676758, 2234.031494 from SambucusBush1
+20:00:20.996 !!! [CE][Point] Removing 11161.161133, 2437.848389 from Land_Boat_Small1
+20:00:50.824 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "HuntingJacket_Autumn"
+20:12:05.449 !!! [CE][Point] Removing 3288.820313, 12866.886719 from Land_Shed_M3
+20:28:07.74 [CE][Links] found 0 total links between groups, of 1
+20:28:07.74 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+20:42:14.105 !!! [CE][Point] Removing 2236.264893, 3393.144775 from CaninaBush1
+20:50:55.855 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "PoliceCap"
+20:50:58.42 [CE][Links] found 0 total links between groups, of 2
+20:50:58.42 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 16
+20:50:58.355 [CE][Links] found 0 total links between groups, of 3
+20:50:58.355 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+20:57:51.418 [CE][Links] found 0 total links between groups, of 4
+20:57:51.418 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+20:58:52.792 [Disconnect]: Start script disconnect 734467598 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+20:58:58.559 [Disconnect]: Client 734467598 disconnecting
+20:58:58.559 [Disconnect]: Client 734467598 early disconnect
+20:58:58.574 [Disconnect]: Start script disconnect 734467598 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+20:59:07.793 [Disconnect]: Finish script disconnect 734467598
+20:59:07.793 [Disconnect]: DisconnectPlayerFinish 734467598
+20:59:07.793 [Disconnect]: Remove player info 734467598
+20:59:07.839 [Disconnect]: Player destroy 734467598 
+21:02:37.668 [Login]: Adding player Survivor (53196696) to login queue at position 0
+21:02:37.668 [LoginMachine]: Add player Survivor (53196696)
+21:02:37.668 [StateMachine]: Player Survivor (dpnid 53196696 uid ) Entering AuthPlayerLoginState
+21:02:38.621 [StateMachine]: Player Survivor (dpnid 53196696 uid ) Entering WaitAuthPlayerLoginState
+21:02:39.980 Player Survivor (2) connected (id=Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=).
+21:02:39.980 Player "Survivor (2)" is connected (steamID=76561198123513865)
+21:02:42.152 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBGetLoginTimeLoginState
+21:02:42.183 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBWaitLoginTimeLoginState
+21:02:57.183 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBGetCharacterLoginState
+21:02:57.214 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering CreateNetObjectsLoginState
+21:02:57.246 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering PreloadCamLoginState
+21:02:57.246 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering WaitPreloadCamLoginState
+21:03:10.465 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "UMP45"
+21:03:13.449 [StateMachine]: Player Survivor (dpnid 53196696 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering GetLoadedCharLoginState
+21:03:13.574 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 53196696
+    uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=
+21:03:13.918 [CE][Links] found 0 total links between groups, of 5
+21:03:13.918 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 18
+21:03:14.246 [CE][Links] found 0 total links between groups, of 6
+21:03:14.246 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+21:14:00.183 [CE][Links] found 0 total links between groups, of 7
+21:14:00.183 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+21:14:42.262 [Login]: Adding player Survivor (1108335043) to login queue at position 0
+21:14:42.262 [LoginMachine]: Add player Survivor (1108335043)
+21:14:42.262 [StateMachine]: Player Survivor (dpnid 1108335043 uid ) Entering AuthPlayerLoginState
+21:14:43.246 [StateMachine]: Player Survivor (dpnid 1108335043 uid ) Entering WaitAuthPlayerLoginState
+21:14:44.949 Player Survivor (3) connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+21:14:44.949 Player "Survivor (3)" is connected (steamID=76561198073956794)
+21:14:49.324 [StateMachine]: Player Survivor (dpnid 1108335043 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+21:14:49.355 [StateMachine]: Player Survivor (dpnid 1108335043 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState

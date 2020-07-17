@@ -1,0 +1,274 @@
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\DayZServerMod\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=serverDZ.cfg -profiles=ServerProfileMod -limitFPS=120 -mod=@CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion
+=====================================================================
+Exe timestamp: 2020/07/14 09:33:09
+Current time:  2020/07/14 18:48:14
+
+Version 1.08.153276
+18:48:14.108 [Inputs] Loading inputs default "bin/constants.xml"
+18:48:14.112 [Inputs] Loading inputs default "bin/specific.xml"
+18:48:14.112 !!! [Inputs] Invalid input name used "UAUIInspectItem" for context "ui" in "bin/specific.xml"
+18:48:14.112 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+18:48:14.113 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+18:48:14.113 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+18:48:14.114 !!! [Inputs] Attempt to insert input twice "UAExpansionHeliAntiTorqueRight"
+18:48:14.114 !!! [Inputs] Invalid input name used "UAExpansionSampleMenuToggle" for exclude "chatexpansion" in "DayZExpansion/Scripts/Data/Inputs.xml"
+18:48:14.114 !!! [Inputs] Cannot Register "UAExpansionSampleMenuToggle" non-existent input - Fix Preset!
+18:48:14.114 [Inputs] Loading inputs cfg "bin/core.xml"
+18:48:14.114 !!! [Inputs] Cannot load input preset "user", file does not exist
+18:48:14.116 [Inputs] Exporting inputs cfg "ServerProfileMod\Users\Survivor\Server.core.xml"
+18:48:33.22 [CE][Hive] :: Initializing OFFLINE
+18:48:33.22 [CE][Hive] :: Loading core data ... 
+18:48:33.23 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+18:48:36.844 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+18:48:36.846 [CE][TypeSetup] :: 421 classes setuped...
+18:48:36.847 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+18:48:36.848 [CE][TypeSetup] :: 34 classes setuped...
+18:48:37.322 [CE][RegisterBind] :: 0 classes binded...
+18:48:37.322 [CE][RegisterConfig] :: 6936 config classes registered, 1 sub-counters...
+18:48:37.322 [CE][Hive] :: Loading map data ... 
+18:48:37.362 [CE][LoadPrototype] :: loaded 329 prototypes
+18:48:37.362   701 containers, 9117 points
+18:48:37.362   24 dispatches, 90 proxies
+18:48:37.362 !!! [CE][LoadPrototype] 12 groups have no points...
+18:48:37.362 !!![CE][LoadPrototype]  3 groups have wrong points...
+18:48:37.362 [CE][LoadPrototype] :: last group name: Land_Lunapark_Autodrome...
+18:48:37.367 [CE][LoadPrototype] :: loaded 0 prototypes
+18:48:37.367   0 containers, 0 points
+18:48:37.367   0 dispatches, 0 proxies
+18:48:37.367 [CE][LoadPrototype] :: last group name: Rail9...
+18:48:37.805 [CE][LoadMap] "Group" :: loaded 11599 groups, largest group range: 34.2
+18:48:37.809 [CE][LoadMap] "Dirt" :: loaded 0 groups, largest group range: 34.2
+18:48:38.250 [CE][Links] found 1896 total links between groups, of 11599
+18:48:38.250 [CE][LoadClusters] "Cluster" :: Loading files...
+18:48:38.436 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+18:48:38.642 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+18:48:38.843 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+18:48:39.44 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+18:48:39.123 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17229 instances
+18:48:39.128 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+18:48:39.128 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+18:48:39.128 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+18:48:39.130 [CE][offlineDB] :: Loaded 37 dynamic events 208 total types 0 total positions.
+18:48:39.131 [CE][offlineDB] :: Loaded 47 dynamic events 221 total types 0 total positions.
+18:48:39.152 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+18:48:39.152 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+18:48:39.152 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+18:48:39.152 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+18:48:39.152 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+18:48:39.153 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+18:48:39.154 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+18:48:39.155 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+18:48:39.156 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+18:48:39.156 [CE][Storage] ver:0 stamp:0, valid:NO, name:"mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+18:48:39.156 [CE][Hive] :: Empty storage folder, reinitializing ... 
+18:48:39.156 [CE][Hive] :: Initializing ... 
+18:48:39.166 [CE][InitializeMap] :: initialized: 0
+18:48:39.166 [CE][Hive] :: Initializing spawners ... 
+18:48:40.405 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "ExpansionHelipadKit"
+18:48:40.405 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "ExpansionHelipadKit"
+18:48:40.405 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "ExpansionHelipadKit"
+18:48:40.406 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "ExpansionHelipadKit"
+18:48:40.406 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ExpansionHelipadKit"
+18:48:40.406 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "ExpansionHelipadKit"
+18:48:40.406 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "ExpansionHelipadKit"
+18:48:40.406 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "ExpansionHelipadKit"
+18:48:40.407 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "ExpansionHelipadKit"
+18:48:40.407 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "ExpansionHelipadKit"
+18:48:40.545 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.545 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.546 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.547 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.548 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.549 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.550 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.551 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.552 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.553 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "HatchbackTrunk_BlueRust"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.717 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.718 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.718 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.718 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:40.718 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "ExpansionVodnikDoorCoDriver"
+18:48:42.22 !!! [CE][Point] Removing 11161.161133, 2437.848389 from Land_Boat_Small1
+18:48:42.148 !!! [CE][Point] Removing 8274.852539, 2462.914551 from Land_Boat_Small2
+18:48:43.906 !!! [CE][Point] Removing 13339.060547, 11969.413086 from Land_Boat_Small1
+18:48:46.616 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:21106, Nominal:21403, Total in Map: 37160 at 6 (sec)
+18:48:46.616   tests:24207, repeats:2697 fails:404, overtime:839
+18:48:46.616 [CE][Links] found 0 total links between groups, of 1
+18:48:46.616 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 17
+18:48:46.616 [CE][Links] found 0 total links between groups, of 2
+18:48:46.616 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 14
+18:48:46.616 [CE][Links] found 0 total links between groups, of 3
+18:48:46.616 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 15
+18:48:46.631 [CE][Links] found 0 total links between groups, of 4
+18:48:46.631 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+18:48:46.631 [CE][Links] found 0 total links between groups, of 5
+18:48:46.631 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+18:48:46.631 [CE][Links] found 0 total links between groups, of 6
+18:48:46.631 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+18:48:46.647 [CE][Links] found 0 total links between groups, of 7
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+18:48:46.647 [CE][Links] found 0 total links between groups, of 8
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+18:48:46.647 [CE][Links] found 0 total links between groups, of 9
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+18:48:46.647 [CE][Links] found 0 total links between groups, of 10
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+18:48:46.647 [CE][Links] found 0 total links between groups, of 11
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+18:48:46.647 [CE][Links] found 0 total links between groups, of 12
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4
+18:48:46.647 [CE][Links] found 0 total links between groups, of 13
+18:48:46.647 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3
+18:48:47.38 [CE][DynEvent] :: 47 types
+18:48:47.38 [00] AmbientHen
+18:48:47.38   Primary Spawner: "Ambient", active: yes, repeat: 1
+18:48:47.38 [01] AnimalBear
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [02] AnimalCow
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [03] AnimalDeer
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [04] AnimalGoat
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [05] AnimalPig
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [06] AnimalRoeDeer
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [07] AnimalSheep
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [08] AnimalWildBoar
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [09] AnimalWolf
+18:48:47.38   Primary Spawner: "Animal", active: yes, repeat: 1
+18:48:47.38 [10] InfectedArmy
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [11] InfectedCity
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [12] InfectedFirefighter
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [13] InfectedIndustrial
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [14] InfectedMedic
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [15] InfectedPolice
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [16] InfectedPrisoner
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [17] InfectedReligious
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [18] InfectedSolitude
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [19] InfectedVillage
+18:48:47.38   Primary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [20] ItemPlanks
+18:48:47.38   Primary Spawner: "Item", active: yes, repeat: 1
+18:48:47.38 [21] Loot
+18:48:47.38   Primary Spawner: "Loot", active: yes, repeat: 2
+18:48:47.38 [22] StaticHeliCrash
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38   Secondary Spawner: "Infected", active: yes, repeat: 1
+18:48:47.38 [23] StaticPoliceCar
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [24] TrajectoryApple
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [25] TrajectoryCanina
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [26] TrajectoryConiferous
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [27] TrajectoryDeciduous
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [28] TrajectoryHumus
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [29] TrajectoryPear
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [30] TrajectoryPlum
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [31] TrajectorySambucus
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [32] TrajectoryStones
+18:48:47.38   Primary Spawner: "Trajectory", active: yes, repeat: 1
+18:48:47.38 [33] VehicleCivilianSedan
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [34] VehicleHatchback02
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [35] VehicleOffroadHatchback
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [36] VehicleSedan02
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [37] VehicleUAZ
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [38] VehicleVodnik
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [39] VehicleBus
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [40] VehicleTractor
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [41] VehicleMH6Helicopter
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [42] VehicleMerlinHelicopter
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [43] VehicleUh1hHelicopter
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [44] VehicleUtilityBoat
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [45] VehicleZodiacBoat
+18:48:47.38   Primary Spawner: "Vehicle", active: yes, repeat: 1
+18:48:47.38 [46] AmbientHare
+18:48:47.38   Primary Spawner: "Ambient", active: yes, repeat: 1
+18:48:47.38 [CE][Hive] :: Initializing of spawners done.
+18:48:47.53 [CE][Hive] :: Init sequence finished.
+18:48:47.53 Player connect enabled
+18:48:47.885 [IdleMode] Entering IN - save processed
+18:50:42.936  --- Termination successfully completed --- 

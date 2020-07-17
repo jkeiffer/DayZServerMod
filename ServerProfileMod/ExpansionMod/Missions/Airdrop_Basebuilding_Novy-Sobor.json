@@ -1,0 +1,302 @@
+{
+    "Enabled": 1,
+    "Weight": 236,
+    "MissionMaxTime": 1200,
+    "MissionName": "Basebuilding_Novy Sobor",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 750,
+    "Speed": 25,
+    "Container": "ExpansionAirdropContainer_Basebuilding",
+    "DropLocation": {
+        "x": 7436,
+        "z": 7720,
+        "Name": "Novy Sobor",
+        "Radius": 100
+    },
+    "Loot": [
+        {
+            "Name": "NailBox",
+            "Attachments": [],
+            "Chance": 0.8
+        },
+        {
+            "Name": "DuctTape",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "MetalPlate",
+            "Attachments": [],
+            "Chance": 0.25
+        },
+        {
+            "Name": "WoodenPlank",
+            "Attachments": [],
+            "Chance": 0.5
+        },
+        {
+            "Name": "Hammer",
+            "Attachments": [],
+            "Chance": 0.4
+        },
+        {
+            "Name": "Shovel",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "Pliers",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "WoodAxe",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "Crowbar",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "Hacksaw",
+            "Attachments": [],
+            "Chance": 0.3
+        },
+        {
+            "Name": "Handsaw",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "SledgeHammer",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "Hatchet",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionCodeLock",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "BarbedWire",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "MetalWire",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionHescoKit",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "EspansionBarbedWireKit",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "ExpansionCamoBoxKit",
+            "Attachments": [],
+            "Chance": 0.18
+        },
+        {
+            "Name": "ExpansionGunrack",
+            "Attachments": [],
+            "Chance": 0.05
+        },
+        {
+            "Name": "ExpansionCone",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionSignDanger",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionSignDanger2",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionSignDanger3",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionSignRoadBarrier",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "ExpansionSafeMini",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "ExpansionSafeMedium",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "ExpansionSafeLarge",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "ExpansionCamoTentKit",
+            "Attachments": [],
+            "Chance": 0.25
+        },
+        {
+            "Name": "MediumTent",
+            "Attachments": [],
+            "Chance": 0.2
+        },
+        {
+            "Name": "LargeTent",
+            "Attachments": [],
+            "Chance": 0.1
+        },
+        {
+            "Name": "CarTent",
+            "Attachments": [],
+            "Chance": 0.15
+        },
+        {
+            "Name": "CamoNet",
+            "Attachments": [],
+            "Chance": 0.3
+        }
+    ],
+    "Infected": [
+        "ZmbM_HermitSkinny_Base",
+        "ZmbM_HermitSkinny_Beige",
+        "ZmbM_HermitSkinny_Black",
+        "ZmbM_HermitSkinny_Green",
+        "ZmbM_HermitSkinny_Red",
+        "ZmbM_FarmerFat_Base",
+        "ZmbM_FarmerFat_Beige",
+        "ZmbM_FarmerFat_Blue",
+        "ZmbM_FarmerFat_Brown",
+        "ZmbM_FarmerFat_Green",
+        "ZmbF_CitizenANormal_Base",
+        "ZmbF_CitizenANormal_Beige",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Grey",
+        "ZmbF_CitizenANormal_Red",
+        "ZmbM_CitizenBFat_Blue",
+        "ZmbM_CitizenBFat_Red",
+        "ZmbM_CitizenBFat_Green",
+        "ZmbF_CitizenBSkinny",
+        "ZmbM_FishermanOld_Blue",
+        "ZmbM_FishermanOld_Green",
+        "ZmbM_FishermanOld_Grey",
+        "ZmbM_FishermanOld_Red",
+        "ZmbM_JournalistSkinny",
+        "ZmbF_JournalistNormal_Blue",
+        "ZmbF_JournalistNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_JournalistNormal_White",
+        "ZmbM_HiderSkinny_Blue",
+        "ZmbM_HiderSkinny_Green",
+        "ZmbM_HiderSkinny_Yellow",
+        "ZmbF_HiderSkinny_Blue",
+        "ZmbF_HiderSkinny_Grey",
+        "ZmbF_HiderSkinny_Green",
+        "ZmbF_HiderSkinny_Red",
+        "ZmbF_SurvivorNormal_Blue",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_SurvivorNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbM_CommercialPilotOld_Blue",
+        "ZmbM_CommercialPilotOld_Olive",
+        "ZmbM_CommercialPilotOld_Brown",
+        "ZmbM_CommercialPilotOld_Grey",
+        "ZmbM_JoggerSkinny_Blue",
+        "ZmbM_JoggerSkinny_Green",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbF_JoggerSkinny_Blue",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbM_MotorBikerFat_Beige",
+        "ZmbM_MotorBikerFat_Black",
+        "ZmbM_MotorBikerFat_Blue",
+        "ZmbM_VillagerOld_Blue",
+        "ZmbM_VillagerOld_Green",
+        "ZmbM_VillagerOld_White",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbF_SkaterYoung_Brown",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_SkaterYoung_Violet",
+        "ZmbM_OffshoreWorker_Green",
+        "ZmbM_OffshoreWorker_Orange",
+        "ZmbM_OffshoreWorker_Red",
+        "ZmbM_OffshoreWorker_Yellow",
+        "ZmbM_Jacket_beige",
+        "ZmbM_Jacket_black",
+        "ZmbM_Jacket_blue",
+        "ZmbM_Jacket_bluechecks",
+        "ZmbM_Jacket_brown",
+        "ZmbM_Jacket_green",
+        "ZmbM_Jacket_khaki",
+        "ZmbM_Jacket_magenta",
+        "ZmbM_Jacket_stripes",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_ShortSkirt_black",
+        "ZmbF_ShortSkirt_brown",
+        "ZmbF_ShortSkirt_green",
+        "ZmbF_ShortSkirt_grey",
+        "ZmbF_ShortSkirt_checks",
+        "ZmbF_ShortSkirt_red",
+        "ZmbF_ShortSkirt_stripes",
+        "ZmbF_ShortSkirt_white",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_VillagerOld_Blue",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_VillagerOld_White",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_MilkMaidOld_Black",
+        "ZmbF_MilkMaidOld_Green",
+        "ZmbF_MilkMaidOld_Grey",
+        "ZmbF_BlueCollarFat_Blue",
+        "ZmbF_BlueCollarFat_Green",
+        "ZmbF_BlueCollarFat_Red",
+        "ZmbF_MechanicNormal_Beige",
+        "ZmbF_MechanicNormal_Green",
+        "ZmbF_MechanicNormal_Grey",
+        "ZmbF_MechanicNormal_Orange",
+        "ZmbM_MechanicSkinny_Blue",
+        "ZmbM_MechanicSkinny_Grey",
+        "ZmbM_MechanicSkinny_Green",
+        "ZmbM_MechanicSkinny_Red",
+        "ZmbM_ConstrWorkerNormal_Beige",
+        "ZmbM_ConstrWorkerNormal_Black",
+        "ZmbM_ConstrWorkerNormal_Green",
+        "ZmbM_ConstrWorkerNormal_Grey",
+        "ZmbM_HeavyIndustryWorker"
+    ],
+    "ItemCount": 50,
+    "InfectedCount": 10
+}

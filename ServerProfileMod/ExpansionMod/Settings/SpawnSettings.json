@@ -1,0 +1,25 @@
+{
+    "StartingGear": {
+        "UseStartingGear": 1,
+        "UsingUpperGear": 1,
+        "UsingPantsGear": 0,
+        "UsingBackpackGear": 1,
+        "SpawnBackpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ],
+        "UpperGear": [
+            "Rag",
+            "Chemlight_White",
+            "StoneKnife",
+            "Apple"
+        ],
+        "PantsGear": [],
+        "BackpackGear": [
+            "SpaghettiCan",
+            "BakedBeansCan"
+        ]
+    }
+}

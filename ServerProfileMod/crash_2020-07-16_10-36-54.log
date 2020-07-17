@@ -1,0 +1,73 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServerMod\ServerProfileMod\crash_2020-07-16_10-36-54.log started at 16.07. 14:40:39
+
+
+
+------------------------------------
+NCC-1701, 16.07 2020 14:40:39
+NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'ProccessInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:505
+scripts/4_World/systems\inventory\dayzplayerinventory.c:860
+scripts/4_World/systems\inventory\dayzplayerinventory.c:454
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 16.07 2020 14:40:48
+NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'ProccessInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:505
+scripts/4_World/systems\inventory\dayzplayerinventory.c:860
+scripts/4_World/systems\inventory\dayzplayerinventory.c:454
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 16.07 2020 14:40:52
+NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'ProccessInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:505
+scripts/4_World/systems\inventory\dayzplayerinventory.c:860
+scripts/4_World/systems\inventory\dayzplayerinventory.c:454
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 16.07 2020 14:40:55
+NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'ProccessInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:505
+scripts/4_World/systems\inventory\dayzplayerinventory.c:860
+scripts/4_World/systems\inventory\dayzplayerinventory.c:454
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
+
+
+------------------------------------
+NCC-1701, 16.07 2020 14:40:58
+NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'ProccessInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:505
+scripts/4_World/systems\inventory\dayzplayerinventory.c:860
+scripts/4_World/systems\inventory\dayzplayerinventory.c:454
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfileMod limitFPS 120 mod @CF;@Community-Online-Tools;DayZ-Expansion-Licensed;@DayZ-Expansion 
